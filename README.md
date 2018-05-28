@@ -25,6 +25,7 @@ at first the speed of the car was reaching 34 mph at most, but then uning  Total
 ### Result snippets
 
 for this first clip, i was scarred of this turn after the bridge since my car was loosing controll after if at first, but as its shown below it was able to pass it erfectly
+
 ![HardTurn](Outputs&Results/HardTurn.gif)
 
 there was a small problem after the bridge turn where the car went on the sides a bit but was able to correct itself and stay on the track
