@@ -32,6 +32,8 @@ there was a small problem after the bridge turn where the car went on the sides 
 
 ![RunExample](Outputs&Results/RunExample.gif)
 
+
+the full result video could be found in https://youtu.be/GJbaL4u_Rgk
 ---
 
 
