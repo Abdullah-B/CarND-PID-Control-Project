@@ -6,19 +6,19 @@
 
 #IncludeRegexTransform: 
 
-/mnt/f/CarNd-PID-Control-Project/src/PID.cpp
+/mnt/f/CarND-PID-Control-Project/CarND-PID-Control-Project/src/PID.cpp
 PID.h
-/mnt/f/CarNd-PID-Control-Project/src/PID.h
+/mnt/f/CarND-PID-Control-Project/CarND-PID-Control-Project/src/PID.h
 cmath
 -
 iostream
 -
 
-/mnt/f/CarNd-PID-Control-Project/src/PID.h
+/mnt/f/CarND-PID-Control-Project/CarND-PID-Control-Project/src/PID.h
 vector
 -
 
-/mnt/f/CarNd-PID-Control-Project/src/json.hpp
+/mnt/f/CarND-PID-Control-Project/CarND-PID-Control-Project/src/json.hpp
 algorithm
 -
 array
@@ -74,15 +74,15 @@ utility
 vector
 -
 
-/mnt/f/CarNd-PID-Control-Project/src/main.cpp
+/mnt/f/CarND-PID-Control-Project/CarND-PID-Control-Project/src/main.cpp
 uWS/uWS.h
 -
 iostream
 -
 json.hpp
-/mnt/f/CarNd-PID-Control-Project/src/json.hpp
+/mnt/f/CarND-PID-Control-Project/CarND-PID-Control-Project/src/json.hpp
 PID.h
-/mnt/f/CarNd-PID-Control-Project/src/PID.h
+/mnt/f/CarND-PID-Control-Project/CarND-PID-Control-Project/src/PID.h
 math.h
 -
 
